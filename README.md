@@ -1,2 +1,2 @@
 # SMART_CURRENCY_CONVERTER
-MERN Stack Project : Full Stack Currency Converter with React, Node, MongoDB, Express
+This repo is a full stack currency converter application with React, Node, MongoDB, Express.
